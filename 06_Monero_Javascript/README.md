@@ -1,6 +1,6 @@
 ### Monero JavaScript网页挖矿
 
-在Victim全盘查找js文件，并插入网页挖矿JS脚本document.write(' ');
+在Victim全盘查找js文件，并插入网页挖矿JS脚本document.write('  ');
 
 
 #### 批量替换命令
